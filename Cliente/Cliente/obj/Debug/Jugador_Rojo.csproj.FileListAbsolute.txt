@@ -1,0 +1,10 @@
+C:\Users\oscar\Documents\Juego de Pong en red\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\oscar\Documents\Juego de Pong en red\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\oscar\Documents\Juego de Pong en red\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\oscar\Documents\Juego de Pong en red\Cliente\Cliente\obj\Debug\Jugador_Rojo.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\Juego de Pong en red\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\oscar\Documents\Juego de Pong en red\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\oscar\Documents\Juego de Pong en red\Cliente\Cliente\obj\Debug\Jugador_Rojo.csproj.GenerateResource.cache
+C:\Users\oscar\Documents\Juego de Pong en red\Cliente\Cliente\obj\Debug\Jugador_Rojo.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Documents\Juego de Pong en red\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\oscar\Documents\Juego de Pong en red\Cliente\Cliente\obj\Debug\Cliente.pdb
